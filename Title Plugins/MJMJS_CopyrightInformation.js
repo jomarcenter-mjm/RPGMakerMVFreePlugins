@@ -5,8 +5,11 @@
 * @help This plugin does not use any plugin commands
 * 
 * --Version Information
-* >1.0
+* >1.0 10/13/19
 * Initial Script created
+*
+* >1.0.1 10/14/19
+* Fixed a bug that I would facepalm for not noticeing just now
 *
 * --Copyright Information
 * if using this script please include "Jomarcenter-MJM" in the credits
@@ -46,7 +49,7 @@
 * @type boolean
 * @on YES
 * @off NO
-* @default NO
+* @default true
 *
 * @param All rights reserved
 * @parent Add All rights Reserve
@@ -58,7 +61,7 @@
 * @type boolean
 * @on YES
 * @off NO
-* @default NO
+* @default false
 *
 * @param Publisher Text
 * @parent Enable Publisher Text
